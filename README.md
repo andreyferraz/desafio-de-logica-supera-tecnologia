@@ -23,7 +23,4 @@ Este projeto oferece uma solução para o desafio de percorrer os elementos de u
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um *issue* ou enviar um *pull request* com melhorias ou correções.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
